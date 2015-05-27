@@ -4,5 +4,8 @@
     <string name="app_name">QRCodeAndroidTest</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="level1">等級1</string>
+    <string name="level2">等級2</string>
+    <string name="level3">等級3</string>
 
 </resources>
